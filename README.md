@@ -1,6 +1,9 @@
 # 🏦 CBN Bank - Mini Banking System (Python)
 
-A simple command-line banking system built in Python. This project allows a user to log in with a username and password, check their balance, deposit money, withdraw funds, and exit the system.
+---
+NEW UPDATE: I have added a signup, so multiple users can register now instead of a default info
+---
+A simple command-line banking system built in Python. This project allows a user to sign up, log in with a username and password, check their balance, deposit money, withdraw funds, and logout the system.
 
 ---
 
